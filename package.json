@@ -1,0 +1,67 @@
+{
+  "_from": "convert-units@git://github.com/codepodu/convert-units.git#9517e0539b2d9e863b4d66dc0cad72bf39c5d6e4",
+  "_id": "convert-units@0.5.0",
+  "_inBundle": false,
+  "_integrity": "sha1-WvH7QUT/mx/37h8GfX/cnhtjGEQ=",
+  "_location": "/convert-units",
+  "_phantomChildren": {
+    "lodash._basecreatecallback": "2.3.0",
+    "lodash._renative": "2.3.0",
+    "lodash._shimkeys": "2.3.0",
+    "lodash.forown": "2.3.0",
+    "lodash.isobject": "2.3.0"
+  },
+  "_requested": {
+    "type": "git",
+    "raw": "convert-units@git://github.com/codepodu/convert-units.git#9517e0539b2d9e863b4d66dc0cad72bf39c5d6e4",
+    "name": "convert-units",
+    "escapedName": "convert-units",
+    "rawSpec": "git://github.com/codepodu/convert-units.git#9517e0539b2d9e863b4d66dc0cad72bf39c5d6e4",
+    "saveSpec": "git://github.com/codepodu/convert-units.git#9517e0539b2d9e863b4d66dc0cad72bf39c5d6e4",
+    "fetchSpec": "git://github.com/codepodu/convert-units.git",
+    "gitCommittish": "9517e0539b2d9e863b4d66dc0cad72bf39c5d6e4"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "git://github.com/codepodu/convert-units.git#9517e0539b2d9e863b4d66dc0cad72bf39c5d6e4",
+  "_spec": "convert-units@git://github.com/codepodu/convert-units.git#9517e0539b2d9e863b4d66dc0cad72bf39c5d6e4",
+  "_where": "/Users/akshar/work/qt/itsman/itsman-ui",
+  "author": {
+    "name": "Ben Ng",
+    "email": "me@benng.me",
+    "url": "http://benng.me"
+  },
+  "bugs": {
+    "url": "https://github.com/ben-ng/convert-units/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "lodash.foreach": "2.3.x",
+    "lodash.keys": "2.3.x"
+  },
+  "deprecated": false,
+  "description": "Convert between quantities in different units",
+  "devDependencies": {
+    "jake": "0.7.x"
+  },
+  "homepage": "https://github.com/ben-ng/convert-units#readme",
+  "keywords": [
+    "metric",
+    "imperial",
+    "convert",
+    "ratio",
+    "fraction"
+  ],
+  "license": "MIT",
+  "main": "lib",
+  "name": "convert-units",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ben-ng/convert-units.git"
+  },
+  "scripts": {
+    "test": "jake test --trace"
+  },
+  "version": "0.5.0"
+}
