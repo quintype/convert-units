@@ -1,5 +1,5 @@
 {
-  "_from": "convert-units@git://github.com/quintype/convert-units.git#main",
+  "_from": "convert-units@git://github.com/quintype/convert-units.git",
   "_id": "convert-units@0.5.0",
   "_inBundle": false,
   "_integrity": "sha1-WvH7QUT/mx/37h8GfX/cnhtjGEQ=",
@@ -13,18 +13,18 @@
   },
   "_requested": {
     "type": "git",
-    "raw": "convert-units@git://github.com/quintype/convert-units.git#main",
+    "raw": "convert-units@git://github.com/quintype/convert-units.git",
     "name": "convert-units",
     "escapedName": "convert-units",
-    "rawSpec": "git://github.com/quintype/convert-units.git#main",
-    "saveSpec": "git://github.com/quintype/convert-units.git#main",
-    "fetchSpec": "git://github.com/quintype/convert-units.git#main"
+    "rawSpec": "git://github.com/quintype/convert-units.git",
+    "saveSpec": "git://github.com/quintype/convert-units.git",
+    "fetchSpec": "git://github.com/quintype/convert-units.git"
   },
   "_requiredBy": [
     "/"
   ],
-  "_resolved": "git://github.com/quintype/convert-units.git#main",
-  "_spec": "convert-units@git://github.com/quintype/convert-units.git#main",
+  "_resolved": "git://github.com/quintype/convert-units.git",
+  "_spec": "convert-units@git://github.com/quintype/convert-units.git",
   "_where": "/Users/akshar/work/qt/itsman/itsman-ui",
   "author": {
     "name": "Ben Ng",
@@ -57,7 +57,7 @@
   "name": "convert-units",
   "repository": {
     "type": "git",
-    "url": "git://github.com/ben-ng/convert-units.git#main"
+    "url": "git://github.com/ben-ng/convert-units.git"
   },
   "scripts": {
     "test": "jake test --trace"
