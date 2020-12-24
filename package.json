@@ -1,5 +1,5 @@
 {
-  "_from": "convert-units@git://github.com/codepodu/convert-units.git#9517e0539b2d9e863b4d66dc0cad72bf39c5d6e4",
+  "_from": "convert-units@git://github.com/quintype/convert-units.git",
   "_id": "convert-units@0.5.0",
   "_inBundle": false,
   "_integrity": "sha1-WvH7QUT/mx/37h8GfX/cnhtjGEQ=",
@@ -13,19 +13,18 @@
   },
   "_requested": {
     "type": "git",
-    "raw": "convert-units@git://github.com/codepodu/convert-units.git#9517e0539b2d9e863b4d66dc0cad72bf39c5d6e4",
+    "raw": "convert-units@git://github.com/quintype/convert-units.git",
     "name": "convert-units",
     "escapedName": "convert-units",
-    "rawSpec": "git://github.com/codepodu/convert-units.git#9517e0539b2d9e863b4d66dc0cad72bf39c5d6e4",
-    "saveSpec": "git://github.com/codepodu/convert-units.git#9517e0539b2d9e863b4d66dc0cad72bf39c5d6e4",
-    "fetchSpec": "git://github.com/codepodu/convert-units.git",
-    "gitCommittish": "9517e0539b2d9e863b4d66dc0cad72bf39c5d6e4"
+    "rawSpec": "git://github.com/quintype/convert-units.git",
+    "saveSpec": "git://github.com/quintype/convert-units.git",
+    "fetchSpec": "git://github.com/quintype/convert-units.git"
   },
   "_requiredBy": [
     "/"
   ],
-  "_resolved": "git://github.com/codepodu/convert-units.git#9517e0539b2d9e863b4d66dc0cad72bf39c5d6e4",
-  "_spec": "convert-units@git://github.com/codepodu/convert-units.git#9517e0539b2d9e863b4d66dc0cad72bf39c5d6e4",
+  "_resolved": "git://github.com/quintype/convert-units.git",
+  "_spec": "convert-units@git://github.com/quintype/convert-units.git",
   "_where": "/Users/akshar/work/qt/itsman/itsman-ui",
   "author": {
     "name": "Ben Ng",
